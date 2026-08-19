@@ -30,7 +30,7 @@ I am currently a Master's student in Computer Science and Information Engineerin
 #### 🤖 AI Agents & Robotics
 * **[Spatial-Intelligence Warehouse Agent](https://github.com/CodebyYao/DLCV2025_teamfu)** 
   An agentic perception system developed for warehouse environments (NTU DLCV Final Project).
-* **[Craycraft Economy (Minecraft Agent)](https://www.youtube.com/watch?v=yS1bqI4s2vg)** 
+* **[Craycraft Economy (Minecraft Agent)]([https://www.youtube.com/watch?v=yS1bqI4s2vg](https://github.com/howard50515/CrayCraft.git))** 
   An autonomous agent utilizing Openclaw to navigate and interact within a Minecraft sandbox economy.
 * **[AquaBot](https://github.com/CodebyYao/Aquabot)** 
   An automated watering robot system.
