@@ -34,6 +34,8 @@ I am currently a Master's student in Computer Science and Information Engineerin
   An autonomous agent utilizing Openclaw to navigate and interact within a Minecraft sandbox economy.
 * **[AquaBot](https://github.com/CodebyYao/Aquabot)** 
   An automated watering robot system.
+* **[StackedHermes](https://github.com/CodebyYao/StackedHermes)** 
+  A four-container Docker stack that runs the Hermes Agent entirely on your own hardware.
 
 #### 👁️ Computer Vision & Rendering
 * **[StyleGaussian3D](https://github.com/Distant22/StyleGaussian3D)** 
